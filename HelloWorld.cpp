@@ -14,4 +14,5 @@ int main(int argc, char* argv[])
                     << omp_get_num_threads()
                     << std::endl; 
     }        
-}        
+}
+
